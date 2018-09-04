@@ -1,6 +1,6 @@
 # Bamazon Application
 
-This is my version of a online shopping Node.js application.
+This is my version of an online shopping Node.js application.
 
 ### Technologies used:
 * Node.js
